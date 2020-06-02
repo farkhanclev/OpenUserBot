@@ -1,4 +1,4 @@
-from telethon.sync import TelegramClient
+fro telethon.sync import TelegramClient
 from telethon.sessions import StringSession
 
 print("""Please go-to my.telegram.org
